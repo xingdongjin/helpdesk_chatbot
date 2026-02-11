@@ -21,6 +21,21 @@ With Intel GPU acceleration:
 
 ## How to Use
 
+### Configure the environment
+1. Create a Python virtual environment
+```bash
+python3 -m venv python-xpu
+source ./python-xpu/bin/activate
+```
+2. Set up the Intel driver
+   https://docs.openvino.ai/nightly/get-started/install-openvino/configurations/configurations-intel-gpu.html
+3. Set up PyTorch for XPU
+   https://docs.pytorch.org/docs/stable/notes/get_start_xpu.html
+4. Edit ./python-xpu to point to your actual python-xpu directory
+```bash
+vim ./python-xpu
+```
+
 ### Run the Chatbot
 ```bash
 ./python-xpu src/main.py
