@@ -64,7 +64,8 @@ python app.py
 
 1. Clone or navigate to the project directory:
 ```bash
-cd helpdesk_chatbot_new
+mkdir helpdesk_chatbot
+cd helpdesk_chatbot
 ```
 
 2. Create and activate a Python virtual environment:
