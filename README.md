@@ -1,5 +1,10 @@
 # FluffyAI Helpdesk Chatbot
 
+<img width="1128" height="2096" alt="Screenshot from 2026-02-10 21-16-03" src="https://github.com/user-attachments/assets/02ff2863-f240-4d2a-a43d-84c86c8e162d" />
+<img width="1128" height="2096" alt="Screenshot from 2026-02-10 21-14-11" src="https://github.com/user-attachments/assets/8aadb25c-9d32-4f66-94e0-c05e2cd9550e" />
+
+
+
 An intelligent customer service chatbot for FluffyAI's AI-powered plush toys business. Built with RAG (Retrieval-Augmented Generation) using Kimi (Moonshot AI) and local sentence-transformers embeddings.
 
 ## Quick Start
