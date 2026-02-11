@@ -1,0 +1,13 @@
+#!/bin/bash
+# Convenience script to run Python with the torch-xpu virtual environment
+# This enables Intel GPU (XPU) acceleration for the helpdesk chatbot
+
+TORCH_XPU_VENV=~/venvs/torch-xpu
+
+if [ ! -d "$TORCH_XPU_VENV" ]; then
+    echo "Error: torch-xpu virtual environment not found at $TORCH_XPU_VENV"
+    exit 1
+fi
+
+# Run python with the torch-xpu venv
+exec $TORCH_XPU_VENV/bin/python3 "$@"
