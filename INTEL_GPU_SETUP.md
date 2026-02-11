@@ -4,9 +4,9 @@
 
 Your helpdesk chatbot is now configured with **Intel Arc Graphics GPU acceleration** for fast embedding generation!
 
-## What Was Done
+## What To Be Done
 
-1. **Configured torch-xpu venv** - Used your existing PyTorch XPU virtual environment at `~/venvs/torch-xpu`
+1. **Configured torch-xpu venv** - Set up PyTorch XPU virtual environment at `~/venvs/torch-xpu`
 2. **Installed dependencies** - Added all required packages (chromadb, sentence-transformers, openai, etc.)
 3. **Updated vector store** - Enhanced to automatically detect and use Intel GPU
 4. **Ingested data** - Populated vector store with 15 document chunks using GPU acceleration
