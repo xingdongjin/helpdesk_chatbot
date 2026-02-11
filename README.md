@@ -1,7 +1,7 @@
 # FluffyAI Helpdesk Chatbot
 
-<img width="33%" src="https://github.com/user-attachments/assets/02ff2863-f240-4d2a-a43d-84c86c8e162d" />
-<img width="33%" src="https://github.com/user-attachments/assets/8aadb25c-9d32-4f66-94e0-c05e2cd9550e" />
+<img width="40%" src="https://github.com/user-attachments/assets/02ff2863-f240-4d2a-a43d-84c86c8e162d" />
+<img width="40%" src="https://github.com/user-attachments/assets/8aadb25c-9d32-4f66-94e0-c05e2cd9550e" />
 
 
 
